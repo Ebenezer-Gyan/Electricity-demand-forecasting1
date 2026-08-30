@@ -10,18 +10,18 @@ SARIMAX
 
 The project includes data analysis, model development, forecasting, evaluation, visualization, and residual analysis.
 
-Research Objective
+Research Objective:
 The main objective of this study is to investigate and compare forecasting approaches for predicting future electricity demand using historical hourly observations.
 
 The project focuses particularly on the performance of the HistGradientBoosting model for predicting future electricity demand, while SARIMAX is used as a time-series forecasting approach for comparison.
 
-Dataset
+Dataset:
 The analysis uses the PJME hourly electricity demand dataset.
 
 The dataset contains historical hourly electricity demand observations and is stored in:
 Data/PJME_hourly.csv
 
-Methodology
+Methodology:
 
 The research workflow consists of the following stages:
 
@@ -41,7 +41,8 @@ Model evaluation
 
 Residual analysis
 
-Comparison and discussion of results
+
+Comparison and discussion of results:
 
 Models
 
@@ -57,7 +58,7 @@ SARIMAX is a statistical time-series model that incorporates autoregressive, dif
 
 It was implemented as a comparative forecasting approach.
 
-Model Evaluation
+Model Evaluation:
 
 The models were evaluated using forecasting performance metrics and graphical analysis.
 
@@ -75,7 +76,7 @@ Residual analysis
 
 Autocorrelation analysis
 
-Results
+Results:
 
 The project examines how effectively the models reproduce observed electricity demand and their ability to generate forecasts of future demand.
 
@@ -83,7 +84,7 @@ Particular attention is given to the performance of the HistGradientBoosting mod
 
 The detailed results, figures, discussion, strengths, weaknesses, and conclusions are provided in the research report.
 
-Residual Analysis
+Residual Analysis:
 
 Residual diagnostics were conducted to assess the behavior of the forecasting errors.
 
